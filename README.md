@@ -1,2 +1,2 @@
-# lucaslugarinho.github.io
-website
+# lugarinholucas.github.io
+my study repository &lt;3
